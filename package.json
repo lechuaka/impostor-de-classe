@@ -1,0 +1,8 @@
+{
+  "name": "impostor-classe",
+  "version": "1.0.0",
+  "description": "Joc multijugador de l'impostor per a l'aula",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.21.2", "socket.io": "^4.8.1"}
+}
